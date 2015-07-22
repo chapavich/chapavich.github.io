@@ -175,6 +175,7 @@ footer img:hover {
 text {
 	margin-top: 20px;
 	display: block;
+    color: #404040;
 }
 text h1 {
 	font-size: 35px;
@@ -269,6 +270,8 @@ iframe {
 about {
 	margin-top: 20px;
 	display: block;
+    color: #404040;
+    
 }
 about h1 {
 	font-size: 35px;
